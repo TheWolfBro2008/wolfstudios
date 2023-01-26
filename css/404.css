@@ -1,0 +1,12 @@
+@media only sceen and (min-width: 1000px) {
+    * {
+        margin: 0 auto;
+        padding: 0 auto;
+    }
+
+    body {
+        background-image: url(../img/searching3.jpeg);
+        background-repeat: none;
+        background-size: cover;
+    }
+}
