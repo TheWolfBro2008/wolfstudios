@@ -68,7 +68,7 @@ body {
         width: 100%;
     }
     
-    .ap {
+    .ap1, .ap2 {
         background-color: darkgoldenrod;
         color: white;
         font-size: 40px;
@@ -78,7 +78,7 @@ body {
         text-align: center;
     }
     
-    .cp {
+    .cp1, .cp2 {
         background-color: darkgoldenrod;
         color: white;
         font-size: 40px;
@@ -88,11 +88,21 @@ body {
         text-align: center;
     }
     
-    .bh {
+    .bh, .bh1 .bh2{
         background-color: darkgoldenrod;
         color: white;
         font-size: 40px;
         position: absolute; bottom: 0px; right: 0px;
+        width: 100%;
+        text-decoration: none;
+        text-align: center;
+    }
+    
+    .ap {
+        background-color: darkgoldenrod;
+        color: white;
+        font-size: 40px;
+        position: absolute; 
         width: 100%;
         text-decoration: none;
         text-align: center;
