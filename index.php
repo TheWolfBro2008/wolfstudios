@@ -19,6 +19,10 @@
             <ul>
                 <li><a href="videos.php">Videos</a></li>
                 <li><a href="tutorials.php">Tutorials</a></li>
+                <li><a href="blog.php">Blogs</a></li>
+                <li><a href="apps.php">Apps</a></li>
+                <li><a href="projects.php">Projects</a></li>
+                <li><a href="games.php">Games</a></li>
             </ul>
         </li>
 
