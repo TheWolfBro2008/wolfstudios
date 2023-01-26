@@ -102,7 +102,58 @@ body {
         background-color: darkgoldenrod;
         color: white;
         font-size: 40px;
-        position: absolute; top: 50px;
+        position: absolute; top: 50px; right: 0px;
+        width: 100%;
+        text-decoration: none;
+        text-align: center;
+    }
+
+    .cp {
+        background-color: darkgoldenrod;
+        color: white;
+        font-size: 40px;
+        position: absolute; top: 100px;
+        width: 100%;
+        text-decoration: none;
+        text-align: center;
+        height: 50px;
+    }
+
+    .pp {
+        background-color: darkgoldenrod;
+        color: white;
+        font-size: 40px;
+        position: absolute; top: 150px; right: 0px;
+        width: 100%;
+        text-decoration: none;
+        text-align: center;
+    }
+
+    .ap3 {
+        background-color: darkgoldenrod;
+        color: white;
+        font-size: 40px;
+        position: absolute; top: 200px; right: 0px;
+        width: 100%;
+        text-decoration: none;
+        text-align: center;
+    }
+
+    .gp {
+        background-color: darkgoldenrod;
+        color: white;
+        font-size: 40px;
+        position: absolute; top: 250px; right: 0px;
+        width: 100%;
+        text-decoration: none;
+        text-align: center;
+    }
+
+    .bp {
+        background-color: darkgoldenrod;
+        color: white;
+        font-size: 40px;
+        position: absolute; top: 300px; right: 0px;
         width: 100%;
         text-decoration: none;
         text-align: center;
