@@ -15,6 +15,7 @@ p {
     position: absolute; left: 150px; top: 100px;
     font-size: 65px;
     color: darkgoldenrod;
+    
 }
 
 @media only sceen and (min-width: 1000px) {
