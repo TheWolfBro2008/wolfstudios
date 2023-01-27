@@ -11,14 +11,14 @@
 <body>
 <nav>
     <ul>
-        <li><a href="moresec.html">More</a>
+        <li><a href="../html/sec/moresec.html">More</a>
             <ul>
-                <li><a href="videos.html">Videos</a></li>
-                <li><a href="tutorials.html">Tutorials</a></li>
-                <li><a href="blog.html">Blogs</a></li>
-                <li><a href="apps.html">Apps</a></li>
-                <li><a href="projects.html">Projects</a></li>
-                <li><a href="games.html">Games</a></li>
+                <li><a href="../html/videos.html">Videos</a></li>
+                <li><a href="../html/tutorials.html">Tutorials</a></li>
+                <li><a href="../html/blog.html">Blogs</a></li>
+                <li><a href="../html/apps.html">Apps</a></li>
+                <li><a href="../html/projects.html">Projects</a></li>
+                <li><a href="../html/games.html">Games</a></li>
             </ul>
         </li>
 
