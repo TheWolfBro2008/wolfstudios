@@ -15,20 +15,24 @@
             <ul>
                 <li><a href="videos.html">Videos</a></li>
                 <li><a href="tutorials.html">Tutorials</a></li>
+                <li><a href="blog.html">Blogs</a></li>
+                <li><a href="apps.html">Apps</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="games.html">Games</a></li>
             </ul>
         </li>
 
-        <li><a href="accsec.html">Accounts</a>
+        <li><a href="../html/sec/accsec.html">Accounts</a>
             <ul>
-                <li><a href="login.php">Login</a></li>
-                <li><a href="register.php">Register</a></li>
+                <li><a href="../php/login.php">Login</a></li>
+                <li><a href="../php/register.php">Register</a></li>
             </ul>
         </li>
 
-        <li><a href="abtsec.html">About</a>
+        <li><a href="../html/secabtsec.html">About</a>
             <ul>
-                <li><a href="about.html">About</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="../html/about.html">About</a></li>
+                <li><a href="../html/contact.html">Contact</a></li>
             </ul>
         </li>
 
@@ -37,6 +41,8 @@
     </ul>
     
     <img class="wolf1" src="img/wolf1.jpg" alt="">
+</nav>
+
 </nav>
 </body>
 </html>
