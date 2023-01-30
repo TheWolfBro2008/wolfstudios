@@ -43,6 +43,6 @@
     <img class="wolf1" src="img/wolf1.jpg" alt="">
 </nav>
 
-</nav>
+    
 </body>
 </html>
