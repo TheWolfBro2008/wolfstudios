@@ -45,7 +45,7 @@
 
     <div class="signup-form">
         <h2>Sign Up</h2>
-        <form action="signup.inc.php" method="post">
+        <form action="includes/signup.inc.php" method="post">
             <input type="text" name="name" class="name" placeholder="Full Name(i.e. John Smith)">
             <input type="email" name="email" class="email" placeholder="Email Address">
             <input type="password" name="pwd" class="pwd" placeholder="Password">
