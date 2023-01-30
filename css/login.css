@@ -120,6 +120,45 @@ ul li ul li {
         display: block;
         position: relative;
     }
+
+    .login-form {
+        width: 450px;
+        height: 250px;
+        position: absolute; left: 325px;
+        background-color: darkblue;
+        color: white;
+        font-size: 50px;
+    }
+
+    h2 {
+        position: absolute; left: 100px;
+    }
+
+    .name {
+        position: absolute; top: 100px; left: 125px;
+        width: 200px; height: 25px;
+        border-radius: 5px;
+        border-width: 3px;
+        border-color: darkgoldenrod;
+    }
+
+    .password {
+        position: absolute; left: 125px; top: 155px;
+        width: 200px; height: 25px;
+        border-radius: 5px;
+        border-width: 3px;
+        border-color: darkgoldenrod;
+    }
+
+    .submit {
+        position: absolute; left: 125px; top: 210px;
+        width: 200px; height: 25px;
+        border-radius: 5px;
+        border-width: 3px;
+        border-color: darkgoldenrod;
+        color: white;
+        background-color: darkgoldenrod;
+    }
 }
 
 

@@ -43,6 +43,13 @@
     <img class="wolf1" src="img/wolf1.jpg" alt="">
 </nav>
 
-    
+    <section class="login-form">
+        <h2>Sign In</h2>
+        <form action="login.inc.php">
+            <input type="text" name="name" class="name" placeholder="Username/Email">
+            <input type="password" name="password" class="password" placeholder="password">
+            <button type="submit" name="submit" class="submit">Sign In</button>
+        </form>
+    </section>
 </body>
 </html>
