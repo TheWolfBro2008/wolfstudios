@@ -355,6 +355,18 @@ ul li ul li {
         color: white;
         font-size: 25px;
     }
+
+    .contact {
+        width: 600px;
+        background-color: blue;
+        height: 500px;
+        position: absolute; left: 250px;
+    }
+
+    .contact h3 {
+        font-size: 45px;
+        font-color: ;
+    }
 }
 
 /* Small Laptops */
