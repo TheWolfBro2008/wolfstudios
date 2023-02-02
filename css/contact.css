@@ -120,6 +120,19 @@ ul li ul li {
         display: block;
         position: relative;
     }
+
+    .contact {
+        background-color: blue;
+        width: 600px;
+        height: 500px;
+        position: absolute; left: 250px;
+    }
+
+    .contact h3 {
+        font-size: 45px;
+        color: white;
+        position: absolute; left: 150px;
+    }
 }
 
 
