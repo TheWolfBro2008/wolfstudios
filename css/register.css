@@ -123,7 +123,7 @@ ul li ul li {
 
     .signup-form {
         width:450px;
-        height: 350px;
+        height: 400px;
         margin: 0 auto;
         position: absolute; left: 325px;
         background-color: darkblue;
@@ -145,14 +145,6 @@ ul li ul li {
     }
 
     .email {
-        position: absolute; left: 125px; top: 150px;
-        width: 200px; height: 25px;
-        border-radius: 5px;
-        border-width: 3px;
-        border-color: darkgoldenrod;
-    }
-
-    .pwd {
         position: absolute; left: 125px; top: 200px;
         width: 200px; height: 25px;
         border-radius: 5px;
@@ -160,7 +152,7 @@ ul li ul li {
         border-color: darkgoldenrod;
     }
 
-    .pwdconfirm {
+    .pwd {
         position: absolute; left: 125px; top: 250px;
         width: 200px; height: 25px;
         border-radius: 5px;
@@ -168,13 +160,30 @@ ul li ul li {
         border-color: darkgoldenrod;
     }
 
-    .submit {
+    .pwdconfirm {
         position: absolute; left: 125px; top: 300px;
         width: 200px; height: 25px;
         border-radius: 5px;
         border-width: 3px;
         border-color: darkgoldenrod;
+    }
+
+    .submit {
+        position: absolute; left: 125px; top: 350px;
+        width: 200px; height: 25px;
+        border-radius: 5px;
+        border-width: 3px;
+        border-color: darkgoldenrod;
         background-color: darkgoldenrod;
+        color: white;
+    }
+
+    .uid {
+        position: absolute; left: 125px; top: 150px;
+        width: 200px; height: 25px;
+        border-radius: 5px;
+        border-width: 3px;
+        border-color: darkgoldenrod;
         color: white;
     }
 }

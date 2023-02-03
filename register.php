@@ -47,7 +47,8 @@
         <h2>Sign Up</h2>
         <form action="includes/signup.inc.php" method="post">
             <input type="text" name="name" class="name" placeholder="Full Name(i.e. John Smith)">
-            <input type="email" name="email" class="email" placeholder="Email Address">
+            <input type="text" name="email" class="email" placeholder="Email Address">
+            <input type="text" name="uid" class="uid" placeholder="Username">
             <input type="password" name="pwd" class="pwd" placeholder="Password">
             <input type="password" name="pwdconfirm" class="pwdconfirm" placeholder="Confirm Password">
             <button type="submit" name="Submit" class="submit">Sign Up</button>
