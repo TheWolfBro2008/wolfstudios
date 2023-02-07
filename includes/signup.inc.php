@@ -16,7 +16,27 @@ if (isset($_POST["submit"])) {
         exit();
     }
 
-    
+    if (invalidUid($username) !== false) {
+        header("location: ../register.php?error=invaliduid")
+        exit();
+    }
+
+    if (invalidEmail($email) !== false) {
+        header("location: ../register.php?error=invalidemail")
+        exit();
+    }
+
+    if (pwdMatch($pwd, $pwdconfirm) !== false) {
+        header("location: ../register.php?error=passwordsdontmatch")
+        exit();
+    }
+
+    if (uidExists($conn, $username) !== false) {
+        header("location: ../register.php?error=usernametaken")
+        exit();
+    }
+
+    createUser($conn, $name, $email, $username, $pwd);
 
 }
 else {
