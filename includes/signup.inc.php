@@ -31,7 +31,7 @@ if (isset($_POST["submit"])) {
         exit();
     }
 
-    if (uidExists($conn, $username) !== false) {
+    if (uidExists($conn, $username, $email) !== false) {
         header("location: ../register.php?error=usernametaken")
         exit();
     }
